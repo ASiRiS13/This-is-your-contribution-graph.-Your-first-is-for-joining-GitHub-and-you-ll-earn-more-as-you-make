@@ -1,0 +1,2 @@
+# This-is-your-contribution-graph.-Your-first-is-for-joining-GitHub-and-you-ll-earn-more-as-you-make
+This is your contribution graph. Your first ■ is for joining GitHub and you’ll earn more as you make additional contributions. More contributions means a darker green square for that day. Over time, your chart might start looking  .  We have a quick guide that will show you how to create your first repository and earn more green squares!
